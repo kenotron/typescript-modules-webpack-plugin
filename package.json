@@ -1,0 +1,12 @@
+{
+  "name": "typescript-modules-webpack-plugin",
+  "version": "0.0.1",
+  "repository": "https://github.com/kenotron/typescript-modules-webpack-plugin.git",
+  "author": "Ken Chau <kchau@microsoft.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.8.1",
+    "webpack": "^4.5.0"
+  },
+  "main": "lib/TypescriptModulesWebpackPlugin.js"
+}
