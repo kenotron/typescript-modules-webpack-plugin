@@ -84,7 +84,7 @@ function bar(n) {
     return 2 * n;
 }
 exports.default = bar;
-
+//# sourceMappingURL=bar.js.map
 
 /***/ }),
 
@@ -162,7 +162,7 @@ exports.default = foo;
         }
     });
 }); })();
-
+//# sourceMappingURL=foo.js.map
 
 /***/ })
 
